@@ -22,6 +22,7 @@
 .pc
 .ppack
 .svn
+.vagrant
 Makefile
 Makefile.old
 extconf.h
